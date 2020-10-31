@@ -1,0 +1,66 @@
+{
+  "bot": {
+    "logchannel": "762879607933370382",
+    "homepage": " ",
+    "owners": ["472217829819678723"],
+    "prefixes": ["!"],
+    "status": "online",
+    "statuses": ["help", "guilds", "users", "version"],
+    "statustype": 3,
+    "token": "NzY0NjY3MzExMjMwNjgxMTA4.X4Jl7Q.JyqBbaIFyAXgB47b1oRpiSYnCjU"
+  },
+
+  "colors": {
+    "general": "#37BB00",
+    "error": "#FF0048",
+    "pinboard": "#3498DB",
+    "success": "#41FF70"
+  },
+
+  "dashboard": {
+    "cookiesecret": "",
+    "secret": "",
+    "port": 7012,
+    "redirect_uri": "http://localhost:port/auth/callback"
+  },
+
+  "options": {
+    "defaultImageFormat": "png",
+    "defaultImageSize": 512,
+    "maxShards": 1
+  },
+
+  "keys": {
+    "abuseipdb": "",
+    "dictionary": "",
+    "dbots": "",
+    "fortnite": "",
+    "github": "",
+    "ipinfo": "",
+    "maps": "",
+    "osu": "",
+    "sentry": "",
+    "steam": "",
+    "topgg": "",
+    "twitter": "",
+    "weather": "",
+    "weebsh": ""
+  },
+
+  "rethink": {
+    "db": "hibiki",
+    "host": "",
+    "password": "",
+    "port": "",
+    "user": "",
+    "tables": [
+      "blacklist", "economy", "guildconfig", "marriages", "monitoring", "mutecache",
+      "points", "reminders", "session", "steammonitor", "userconfig", "warnings"
+    ]
+  },
+
+  "voting": {
+    "auth": "",
+    "port": 7013
+  }
+}

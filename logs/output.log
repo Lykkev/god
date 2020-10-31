@@ -1,0 +1,395 @@
+[34m[Oct 10th 22:28][0m [32mCreated the hibiki database [0m
+[34m[Oct 10th 22:28][0m [32mCreated the warnings table [0m
+[34m[Oct 10th 22:28][0m [32mCreated the reminders table [0m
+[34m[Oct 10th 22:28][0m [32mCreated the blacklist table [0m
+[34m[Oct 10th 22:28][0m [32mCreated the marriages table [0m
+[34m[Oct 10th 22:28][0m [32mCreated the mutecache table [0m
+[34m[Oct 10th 22:28][0m [32mCreated the points table [0m
+[34m[Oct 10th 22:28][0m [32mCreated the monitoring table [0m
+[34m[Oct 10th 22:28][0m [32mCreated the guildconfig table [0m
+[34m[Oct 10th 22:28][0m [32mCreated the session table [0m
+[34m[Oct 10th 22:28][0m [32mCreated the userconfig table [0m
+[34m[Oct 10th 22:28][0m [32mCreated the economy table [0m
+[34m[Oct 10th 22:28][0m [32mCreated the steammonitor table [0m
+[34m[Oct 10th 22:28][0m [32mCreated the marriage index [0m
+[34m[Oct 10th 22:28][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 10th 22:28][0m [36m150 commands loaded [0m
+[34m[Oct 10th 22:28][0m [36m7 events loaded [0m
+[34m[Oct 10th 22:28][0m [36m12 loggers loaded [0m
+[34m[Oct 10th 22:28][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 10th 22:28][0m [36mStartup took 2.419 seconds [0m
+[34m[Oct 10th 22:28][0m [33mCursed#0707 ran ping in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:28][0m [33mCursed#0707 ran help in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:29][0m [33mCursed#0707 ran daily in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:29][0m [33mCursed#0707 ran cookies in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:30][0m [33mCursed#0707 ran prefix in El servidor de Cursedsdas: & [0m
+[34m[Oct 10th 22:31][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 10th 22:31][0m [36m150 commands loaded [0m
+[34m[Oct 10th 22:31][0m [36m7 events loaded [0m
+[34m[Oct 10th 22:31][0m [36m12 loggers loaded [0m
+[34m[Oct 10th 22:31][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 10th 22:31][0m [36mStartup took 1.427 seconds [0m
+[34m[Oct 10th 22:32][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 10th 22:32][0m [36m150 commands loaded [0m
+[34m[Oct 10th 22:32][0m [36m7 events loaded [0m
+[34m[Oct 10th 22:32][0m [36m12 loggers loaded [0m
+[34m[Oct 10th 22:32][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 10th 22:32][0m [36mStartup took 1.441 seconds [0m
+[34m[Oct 10th 22:33][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 10th 22:33][0m [36m150 commands loaded [0m
+[34m[Oct 10th 22:33][0m [36m7 events loaded [0m
+[34m[Oct 10th 22:33][0m [36m12 loggers loaded [0m
+[34m[Oct 10th 22:33][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 10th 22:33][0m [36mStartup took 1.417 seconds [0m
+[34m[Oct 10th 22:34][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 10th 22:34][0m [36m150 commands loaded [0m
+[34m[Oct 10th 22:34][0m [36m7 events loaded [0m
+[34m[Oct 10th 22:34][0m [36m12 loggers loaded [0m
+[34m[Oct 10th 22:34][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 10th 22:34][0m [36mStartup took 1.435 seconds [0m
+[34m[Oct 10th 22:35][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 10th 22:35][0m [36m150 commands loaded [0m
+[34m[Oct 10th 22:35][0m [36m7 events loaded [0m
+[34m[Oct 10th 22:35][0m [36m12 loggers loaded [0m
+[34m[Oct 10th 22:35][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 10th 22:35][0m [36mStartup took 1.425 seconds [0m
+[34m[Oct 10th 22:35][0m [33mCursed#0707 ran help in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:36][0m [33mCursed#0707 ran purge in El servidor de Cursedsdas: 60 [0m
+[34m[Oct 10th 22:36][0m [33mCursed#0707 ran purge in El servidor de Cursedsdas: 99 [0m
+[34m[Oct 10th 22:37][0m [33mCursed#0707 ran prefix in El servidor de Cursedsdas: ! [0m
+[34m[Oct 10th 22:38][0m [33mCursed#0707 ran reload in El servidor de Cursedsdas: help [0m
+[34m[Oct 10th 22:38][0m [33mCursed#0707 ran setup in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:39][0m [33mCursed#0707 ran snipe in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:40][0m [33mCursed#0707 ran purge in El servidor de Cursedsdas: 60 [0m
+[34m[Oct 10th 22:41][0m [33mCursed#0707 ran ping in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:41][0m [33mCursed#0707 ran awoo in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:41][0m [33mCursed#0707 ran reload in El servidor de Cursedsdas: awoo [0m
+[34m[Oct 10th 22:41][0m [33mCursed#0707 ran awoo in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:41][0m [33mCursed#0707 ran load in El servidor de Cursedsdas: awoo [0m
+[34m[Oct 10th 22:41][0m [33mCursed#0707 ran awoo in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:41][0m [33mCursed#0707 ran unload in El servidor de Cursedsdas: awoo [0m
+[34m[Oct 10th 22:41][0m [33mCursed#0707 ran awoo in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:42][0m [33mCursed#0707 ran reload in El servidor de Cursedsdas: awoo [0m
+[34m[Oct 10th 22:42][0m [33mCursed#0707 ran awoo in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:42][0m [33mCursed#0707 ran unload in El servidor de Cursedsdas: awoo [0m
+[34m[Oct 10th 22:42][0m [33mCursed#0707 ran load in El servidor de Cursedsdas: awoo [0m
+[34m[Oct 10th 22:42][0m [33mCursed#0707 ran awoo in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:43][0m [33mCursed#0707 ran cookies in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:43][0m [33mCursed#0707 ran cookies in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:43][0m [33mCursed#0707 ran reload in El servidor de Cursedsdas: balance [0m
+[34m[Oct 10th 22:43][0m [33mCursed#0707 ran cookies in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:43][0m [33mCursed#0707 ran reload in El servidor de Cursedsdas: balance [0m
+[34m[Oct 10th 22:43][0m [33mCursed#0707 ran cookies in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:43][0m [33mCursed#0707 ran cool in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:43][0m [33mCursed#0707 ran kiss in El servidor de Cursedsdas: gvng [0m
+[34m[Oct 10th 22:44][0m [33mCursed#0707 ran cowsay in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:44][0m [33mCursed#0707 ran daily in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:45][0m [33mCursed#0707 ran reload in El servidor de Cursedsdas: dice [0m
+[34m[Oct 10th 22:45][0m [33mCursed#0707 ran dice in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:45][0m [33mCursed#0707 ran roll in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:45][0m [33mCursed#0707 ran help in El servidor de Cursedsdas: roll [0m
+[34m[Oct 10th 22:45][0m [33mCursed#0707 ran help in El servidor de Cursedsdas: Roll [0m
+[34m[Oct 10th 22:45][0m [33mCursed#0707 ran roll in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:45][0m [33mCursed#0707 ran roll in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:46][0m [33mCursed#0707 ran help in El servidor de Cursedsdas: dado [0m
+[34m[Oct 10th 22:46][0m [33mCursed#0707 ran help in El servidor de Cursedsdas: dado [0m
+[34m[Oct 10th 22:46][0m [33mCursed#0707 ran help in El servidor de Cursedsdas: dice [0m
+[34m[Oct 10th 22:46][0m [33mCursed#0707 ran reload in El servidor de Cursedsdas: dice [0m
+[34m[Oct 10th 22:46][0m [33mCursed#0707 ran dice in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:46][0m [33mCursed#0707 ran help in El servidor de Cursedsdas: dice [0m
+[34m[Oct 10th 22:47][0m [33mCursed#0707 ran dicksize in El servidor de Cursedsdas: gvng [0m
+[34m[Oct 10th 22:47][0m [33mCursed#0707 ran dicksize in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:47][0m [33mCursed#0707 ran dog in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:47][0m [33mCursed#0707 ran dog in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:47][0m [33mCursed#0707 ran dog in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:47][0m [33mCursed#0707 ran dog in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:48][0m [33mCursed#0707 ran reload in El servidor de Cursedsdas: gecg [0m
+[34m[Oct 10th 22:48][0m [33mCursed#0707 ran engineeredcatgirls in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:48][0m [33mCursed#0707 ran engineeredcatgirls in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:48][0m [33mCursed#0707 ran engineeredcatgirls in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:49][0m [33mCursed#0707 ran fact in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:49][0m [33mCursed#0707 ran fact in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:49][0m [33mCursed#0707 ran fox in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:49][0m [33mCursed#0707 ran fox in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:51][0m [33mCursed#0707 ran forceban in El servidor de Cursedsdas: 647269760782041133 [0m
+[34m[Oct 10th 22:51][0m [33mCursed#0707 ran unban in El servidor de Cursedsdas: 647269760782041133 [0m
+[34m[Oct 10th 22:51][0m [33mCursed#0707 ran purge in El servidor de Cursedsdas: 60 [0m
+[34m[Oct 10th 22:52][0m [33mCursed#0707 ran forceban in El servidor de Cursedsdas: 719523922726617188,,647269760782041133 [0m
+[34m[Oct 10th 22:52][0m [33mCursed#0707 ran forceban in El servidor de Cursedsdas: 719523922726617188 [0m
+[34m[Oct 10th 22:52][0m [33mCursed#0707 ran purge in El servidor de Cursedsdas: 60 [0m
+[34m[Oct 10th 22:54][0m [33mCursed#0707 ran meme in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:54][0m [33mCursed#0707 ran miku in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:54][0m [33mCursed#0707 ran miku in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:54][0m [33mCursed#0707 ran miku in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:54][0m [33mCursed#0707 ran miku in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:54][0m [33mCursed#0707 ran miku in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:54][0m [33mCursed#0707 ran miku in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:54][0m [33mCursed#0707 ran miku in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:54][0m [33mCursed#0707 ran miku in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:54][0m [33mCursed#0707 ran ping in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:54][0m [33mCursed#0707 ran purge in El servidor de Cursedsdas: 99 [0m
+[34m[Oct 10th 22:55][0m [33mCursed#0707 ran httpcat in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:55][0m [33mCursed#0707 ran httpcat in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:55][0m [33mCursed#0707 ran httpcat in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:56][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 50 [0m
+[34m[Oct 10th 22:56][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:56][0m [33mCursed#0707 ran help in El servidor de Cursedsdas: slots [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 1 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 50 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 50 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 50 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran cookies in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran cookies in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:57][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:58][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:58][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:58][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:58][0m [33mCursed#0707 ran slots in El servidor de Cursedsdas: 100 [0m
+[34m[Oct 10th 22:58][0m [33mCursed#0707 ran cookies in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:58][0m [33mLykkev#0707 ran daily in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:58][0m [33mLykkev#0707 ran slots in El servidor de Cursedsdas: 20 [0m
+[34m[Oct 10th 22:58][0m [33mLykkev#0707 ran slots in El servidor de Cursedsdas: 20 [0m
+[34m[Oct 10th 22:58][0m [33mLykkev#0707 ran slots in El servidor de Cursedsdas: 20 [0m
+[34m[Oct 10th 22:59][0m [33mCursed#0707 ran reload in El servidor de Cursedsdas: topcookies [0m
+[34m[Oct 10th 22:59][0m [33mCursed#0707 ran topcookies in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:59][0m [33mCursed#0707 ran xkcd in El servidor de Cursedsdas [0m
+[34m[Oct 10th 22:59][0m [33mCursed#0707 ran about in El servidor de Cursedsdas [0m
+[34m[Oct 10th 23:01][0m [33mCursed#0707 ran reload in El servidor de Cursedsdas: about [0m
+[34m[Oct 10th 23:01][0m [33mCursed#0707 ran reload in El servidor de Cursedsdas: reload [0m
+[34m[Oct 10th 23:01][0m [33mCursed#0707 ran reload in El servidor de Cursedsdas: about [0m
+[34m[Oct 10th 23:01][0m [33mCursed#0707 ran about in El servidor de Cursedsdas [0m
+[34m[Oct 10th 23:01][0m [33mCursed#0707 ran blacklist in El servidor de Cursedsdas: 760706188915769354 [0m
+[34m[Oct 10th 23:01][0m [33mCursed#0707 ran whitelist in El servidor de Cursedsdas: 760706188915769354 [0m
+[34m[Oct 11th 01:10][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 01:10][0m [36m121 commands loaded [0m
+[34m[Oct 11th 01:10][0m [36m7 events loaded [0m
+[34m[Oct 11th 01:10][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 01:10][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 01:10][0m [36mStartup took 2.519 seconds [0m
+[34m[Oct 11th 01:11][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:11][0m [33mCursed#0707 uso help en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:11][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: all [0m
+[34m[Oct 11th 01:13][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 01:13][0m [36m121 commands loaded [0m
+[34m[Oct 11th 01:13][0m [36m7 events loaded [0m
+[34m[Oct 11th 01:13][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 01:13][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 01:13][0m [36mStartup took 1.447 seconds [0m
+[34m[Oct 11th 01:23][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 01:23][0m [36m121 commands loaded [0m
+[34m[Oct 11th 01:23][0m [36m7 events loaded [0m
+[34m[Oct 11th 01:23][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 01:23][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 01:23][0m [36mStartup took 1.422 seconds [0m
+[34m[Oct 11th 01:27][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: all [0m
+[34m[Oct 11th 01:27][0m [33mCursed#0707 uso help en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:27][0m [33mCursed#0707 uso purge en El servidor de Cursedsdas: 99 [0m
+[34m[Oct 11th 01:27][0m [33mCursed#0707 uso purge en El servidor de Cursedsdas: 99 [0m
+[34m[Oct 11th 01:28][0m [33mCursed#0707 uso help en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:28][0m [33mCursed#0707 uso blacklist en El servidor de Cursedsdas: 638218159249424394 [0m
+[34m[Oct 11th 01:28][0m [33mCursed#0707 uso whitelist en El servidor de Cursedsdas: 638218159249424394 [0m
+[34m[Oct 11th 01:39][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: blacklist [0m
+[34m[Oct 11th 01:39][0m [33mCursed#0707 uso blacklist en El servidor de Cursedsdas: 730011235978051637 [0m
+[34m[Oct 11th 01:40][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: blacklist [0m
+[34m[Oct 11th 01:40][0m [33mCursed#0707 uso blacklist en El servidor de Cursedsdas: 742759714819145769 [0m
+[34m[Oct 11th 01:45][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: all [0m
+[34m[Oct 11th 01:46][0m [33mCursed#0707 uso whitelist en El servidor de Cursedsdas: 742759714819145769 [0m
+[34m[Oct 11th 01:46][0m [33mCursed#0707 uso whitelist en El servidor de Cursedsdas: 730011235978051637 [0m
+[34m[Oct 11th 01:47][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: all [0m
+[34m[Oct 11th 01:47][0m [33mCursed#0707 uso help en El servidor de Cursedsdas: unbl [0m
+[34m[Oct 11th 01:48][0m [33mCursed#0707 uso invite en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:49][0m [36mAgregado al servidor: sadsadas [0m
+[34m[Oct 11th 01:49][0m [33mCursed#0707 uso blacklist en El servidor de Cursedsdas: 764741214800576524 [0m
+[34m[Oct 11th 01:49][0m [33mCursed#0707 uso help en sadsadas [0m
+[34m[Oct 11th 01:49][0m [33mCursed#0707 uso blacklist en El servidor de Cursedsdas: guild,764741214800576524 [0m
+[34m[Oct 11th 01:49][0m [36mEliminado del servidor: sadsadas [0m
+[34m[Oct 11th 01:50][0m [33mMe uni a un servidor añadido a la lista negra: sadsadas [0m
+[34m[Oct 11th 01:50][0m [36mEliminado del servidor: sadsadas [0m
+[34m[Oct 11th 01:50][0m [33mCursed#0707 uso whitelist en El servidor de Cursedsdas: guild,764741214800576524 [0m
+[34m[Oct 11th 01:51][0m [36mAgregado al servidor: sadsadas [0m
+[34m[Oct 11th 01:51][0m [33mCursed#0707 uso blacklist en El servidor de Cursedsdas: member,764741214800576524 [0m
+[34m[Oct 11th 01:51][0m [36mEliminado del servidor: sadsadas [0m
+[34m[Oct 11th 01:51][0m [33mCursed#0707 uso whitelist en El servidor de Cursedsdas: 764741214800576524 [0m
+[34m[Oct 11th 01:52][0m [33mCursed#0707 uso blacklist en El servidor de Cursedsdas: 662157806975188992 [0m
+[34m[Oct 11th 01:52][0m [31mUsuario incluido en la lista negra Lykkev#0707 (662157806975188992) intentó ejecutar un comando en El servidor de Cursedsdas (762879607933370379). [0m
+[34m[Oct 11th 01:53][0m [33mCursed#0707 uso whitelist en El servidor de Cursedsdas: 662157806975188992 [0m
+[34m[Oct 11th 01:53][0m [33mLykkev#0707 uso help en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:53][0m [33mCursed#0707 uso purge en El servidor de Cursedsdas: 99 [0m
+[34m[Oct 11th 01:53][0m [33mCursed#0707 uso purge en El servidor de Cursedsdas: 99 [0m
+[34m[Oct 11th 01:53][0m [33mCursed#0707 uso purge en El servidor de Cursedsdas: 99 [0m
+[34m[Oct 11th 01:54][0m [33mCursed#0707 uso clean en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:55][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:55][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:55][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:55][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:55][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:55][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:55][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas: FF0048 [0m
+[34m[Oct 11th 01:55][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:55][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:55][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:55][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:55][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:56][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:56][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:56][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:56][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:56][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:56][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:56][0m [33mLykkev#0707 uso color en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:56][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: all [0m
+[34m[Oct 11th 01:56][0m [33mLykkev#0707 uso help en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:57][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 01:57][0m [36m121 commands loaded [0m
+[34m[Oct 11th 01:57][0m [36m7 events loaded [0m
+[34m[Oct 11th 01:57][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 01:57][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 01:57][0m [36mStartup took 1.418 seconds [0m
+[34m[Oct 11th 01:57][0m [33mCursed#0707 uso help en El servidor de Cursedsdas [0m
+[34m[Oct 11th 01:58][0m [33mLykkev#0707 uso help en El servidor de Cursedsdas [0m
+[34m[Oct 11th 02:00][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 02:00][0m [36m121 commands loaded [0m
+[34m[Oct 11th 02:00][0m [36m7 events loaded [0m
+[34m[Oct 11th 02:00][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 02:00][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 02:00][0m [36mStartup took 1.416 seconds [0m
+[34m[Oct 11th 02:01][0m [33mCursed#0707 uso setup en El servidor de Cursedsdas [0m
+[34m[Oct 11th 02:03][0m [33mCursed#0707 uso setup en El servidor de Cursedsdas [0m
+[34m[Oct 11th 02:05][0m [33mCursed#0707 uso setup en El servidor de Cursedsdas [0m
+[34m[Oct 11th 02:07][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 02:07][0m [36m121 commands loaded [0m
+[34m[Oct 11th 02:07][0m [36m7 events loaded [0m
+[34m[Oct 11th 02:07][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 02:07][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 02:07][0m [36mStartup took 1.399 seconds [0m
+[34m[Oct 11th 02:07][0m [33mCursed#0707 uso help en El servidor de Cursedsdas [0m
+[34m[Oct 11th 02:07][0m [33mCursed#0707 uso warnings en El servidor de Cursedsdas: <@!662157806975188992> [0m
+[34m[Oct 11th 02:08][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 02:08][0m [36m121 commands loaded [0m
+[34m[Oct 11th 02:08][0m [36m7 events loaded [0m
+[34m[Oct 11th 02:08][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 02:08][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 02:08][0m [36mStartup took 1.354 seconds [0m
+[34m[Oct 11th 02:09][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: all [0m
+[34m[Oct 11th 02:09][0m [33mCursed#0707 uso setup en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:26][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 13:26][0m [36m121 commands loaded [0m
+[34m[Oct 11th 13:26][0m [36m7 events loaded [0m
+[34m[Oct 11th 13:26][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 13:26][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 13:26][0m [36mStartup took 2.661 seconds [0m
+[34m[Oct 11th 13:29][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 13:29][0m [36m121 commands loaded [0m
+[34m[Oct 11th 13:29][0m [36m7 events loaded [0m
+[34m[Oct 11th 13:29][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 13:29][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 13:29][0m [36mStartup took 1.379 seconds [0m
+[34m[Oct 11th 13:31][0m [33mCursed#0707 uso setup en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:33][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:33][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: all [0m
+[34m[Oct 11th 13:33][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: all [0m
+[34m[Oct 11th 13:33][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:33][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 13:33][0m [36m121 commands loaded [0m
+[34m[Oct 11th 13:33][0m [36m7 events loaded [0m
+[34m[Oct 11th 13:33][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 13:33][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 13:33][0m [36mStartup took 1.307 seconds [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso ping en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:34][0m [33mCursed#0707 uso help en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:38][0m [33mCursed#0707 uso stealembed en El servidor de Cursedsdas: 764919776660160512 [0m
+[34m[Oct 11th 13:38][0m [33mCursed#0707 uso stealembed en El servidor de Cursedsdas: 764919776660160512 [0m
+[34m[Oct 11th 13:39][0m [33mCursed#0707 uso setup en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:41][0m [33mCursed#0707 uso setup en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:42][0m [33mCursed#0707 uso setup en El servidor de Cursedsdas [0m
+[34m[Oct 11th 13:44][0m [33mCursed#0707 uso stealembed en El servidor de Cursedsdas: 764921104866213968 [0m
+[34m[Oct 11th 13:45][0m [33mCursed#0707 uso stealembed en El servidor de Cursedsdas: 764921648767303690 [0m
+[34m[Oct 11th 13:46][0m [33mCursed#0707 uso stealembed en El servidor de Cursedsdas: 764921789314760745 [0m
+[34m[Oct 11th 13:48][0m [33mCursed#0707 uso avatar en El servidor de Cursedsdas: cursed [0m
+[34m[Oct 11th 13:49][0m [33mCursed#0707 uso avatar en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 13:49][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: lyev [0m
+[34m[Oct 11th 13:51][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: kiss [0m
+[34m[Oct 11th 13:51][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 13:52][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 13:52][0m [36m121 commands loaded [0m
+[34m[Oct 11th 13:52][0m [36m7 events loaded [0m
+[34m[Oct 11th 13:52][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 13:52][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 13:52][0m [36mStartup took 1.367 seconds [0m
+[34m[Oct 11th 13:52][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 13:54][0m [31mError al iniciar la base de datos, saliendo: ReqlDriverError: Error initializing master pool [0m
+[34m[Oct 11th 13:54][0m [31mError al iniciar la base de datos, saliendo: ReqlDriverError: Error initializing master pool [0m
+[34m[Oct 11th 13:54][0m [31mError al iniciar la base de datos, saliendo: ReqlDriverError: Error initializing master pool [0m
+[34m[Oct 11th 13:54][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 13:54][0m [36m121 commands loaded [0m
+[34m[Oct 11th 13:54][0m [36m7 events loaded [0m
+[34m[Oct 11th 13:54][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 13:54][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 13:54][0m [36mStartup took 6.528 seconds [0m
+[34m[Oct 11th 13:54][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 13:54][0m [36m121 commands loaded [0m
+[34m[Oct 11th 13:54][0m [36m7 events loaded [0m
+[34m[Oct 11th 13:54][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 13:54][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 13:54][0m [36mStartup took 1.318 seconds [0m
+[34m[Oct 11th 13:54][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 13:58][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: kiss [0m
+[34m[Oct 11th 13:58][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 13:58][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 13:58][0m [36m121 commands loaded [0m
+[34m[Oct 11th 13:58][0m [36m7 events loaded [0m
+[34m[Oct 11th 13:58][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 13:58][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 13:58][0m [36mStartup took 1.459 seconds [0m
+[34m[Oct 11th 13:58][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 13:59][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: kiss [0m
+[34m[Oct 11th 13:59][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 13:59][0m [36mRethinkDB is setup properly [0m
+[34m[Oct 11th 13:59][0m [36m121 commands loaded [0m
+[34m[Oct 11th 13:59][0m [36m7 events loaded [0m
+[34m[Oct 11th 13:59][0m [36m12 loggers loaded [0m
+[34m[Oct 11th 13:59][0m [36mLogged in as Lyev#6523 on 1 servers [0m
+[34m[Oct 11th 13:59][0m [36mStartup took 1.323 seconds [0m
+[34m[Oct 11th 13:59][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 14:02][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: kiss [0m
+[34m[Oct 11th 14:02][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 14:02][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: kiss [0m
+[34m[Oct 11th 14:02][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 14:06][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: kiss [0m
+[34m[Oct 11th 14:06][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 14:06][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: kiss [0m
+[34m[Oct 11th 14:06][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 14:06][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: kiss [0m
+[34m[Oct 11th 14:06][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 14:07][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: kiss [0m
+[34m[Oct 11th 14:07][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 14:07][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 14:07][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: kiss [0m
+[34m[Oct 11th 14:07][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m
+[34m[Oct 11th 14:10][0m [33mCursed#0707 uso reload en El servidor de Cursedsdas: kiss [0m
+[34m[Oct 11th 14:10][0m [33mCursed#0707 uso kiss en El servidor de Cursedsdas: gvng [0m

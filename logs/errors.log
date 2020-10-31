@@ -1,0 +1,292 @@
+Error: Invalid color - check the embed construct.
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Config\Hibiki-main\src\utils\embed.js:45:16)
+    at prefixCommand.run (C:\Users\Shadow\Documents\Config\Hibiki-main\src\commands\General\prefix.js:51:14)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Config\Hibiki-main\src\events\Handler.js:203:7)
+(node:1360) UnhandledPromiseRejectionWarning: DiscordRESTError [50013]: Missing Permissions
+    at RequestHandler.request (C:\Users\Shadow\Documents\Config\Hibiki-main\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.deleteMessage (C:\Users\Shadow\Documents\Config\Hibiki-main\node_modules\eris\lib\Client.js:1231:36)
+    at Message.delete (C:\Users\Shadow\Documents\Config\Hibiki-main\node_modules\eris\lib\structures\Message.js:367:43)
+    at purgeCommand.run (C:\Users\Shadow\Documents\Config\Hibiki-main\src\commands\Moderation\purge.js:33:36)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Config\Hibiki-main\src\events\Handler.js:203:7)
+(Use `NODE.EXE --trace-warnings ...` to show where the warning was created)
+(node:1360) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 6)
+(node:1360) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+DiscordHTTPError: 500 Internal Server Error on GET /api/v7/channels/762879607933370382/messages?limit=100
+    at RequestHandler.request (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at get (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\Client.js:1020:60)
+    at Hibiki.getMessages (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\Client.js:1036:20)
+    at TextChannel.getMessages (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\structures\TextChannel.js:136:40)
+    at purgeCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Moderation\purge.js:35:42)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:7)
+(node:12112) UnhandledPromiseRejectionWarning: Error: No message object to send, contact a developer!
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Hibiki-main\src\utils\embed.js:51:42)
+    at module.exports (C:\Users\Shadow\Documents\Hibiki-main\src\utils\automod\antiInvite.js:22:56)
+    at automod.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Automod.js:26:94)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(Use `NODE.EXE --trace-warnings ...` to show where the warning was created)
+(node:12112) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 14)
+(node:12112) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:21184) UnhandledPromiseRejectionWarning: Error: Ningún objeto de mensaje para enviar, comuníquese con un desarrollador!
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Hibiki-main\src\utils\embed.js:51:42)
+    at module.exports (C:\Users\Shadow\Documents\Hibiki-main\src\utils\automod\antiInvite.js:22:56)
+    at automod.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Automod.js:26:94)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(Use `NODE.EXE --trace-warnings ...` to show where the warning was created)
+(node:21184) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 6)
+(node:21184) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:21316) UnhandledPromiseRejectionWarning: Error: Ningún objeto de mensaje para enviar, comuníquese con un desarrollador!
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Hibiki-main\src\utils\embed.js:51:42)
+    at module.exports (C:\Users\Shadow\Documents\Hibiki-main\src\utils\automod\antiInvite.js:22:56)
+    at automod.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Automod.js:26:94)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(Use `NODE.EXE --trace-warnings ...` to show where the warning was created)
+(node:21316) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:21316) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:21316) UnhandledPromiseRejectionWarning: Error: Ningún objeto de mensaje para enviar, comuníquese con un desarrollador!
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Hibiki-main\src\utils\embed.js:51:42)
+    at module.exports (C:\Users\Shadow\Documents\Hibiki-main\src\utils\automod\antiInvite.js:22:56)
+    at automod.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Automod.js:26:94)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:21316) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 5)
+(node:21316) UnhandledPromiseRejectionWarning: Error: Ningún objeto de mensaje para enviar, comuníquese con un desarrollador!
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Hibiki-main\src\utils\embed.js:51:42)
+    at module.exports (C:\Users\Shadow\Documents\Hibiki-main\src\utils\automod\antiInvite.js:22:56)
+    at automod.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Automod.js:26:94)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(node:21316) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 10)
+(node:21316) UnhandledPromiseRejectionWarning: ReqlDriverError: None of the pools have an opened connection and failed to open a new one.
+    at MasterConnectionPool.queue (C:\Users\Shadow\Documents\Hibiki-main\node_modules\rethinkdb-ts\lib\connection\master-pool.js:137:19)
+    at Function.run (C:\Users\Shadow\Documents\Hibiki-main\node_modules\rethinkdb-ts\lib\query-builder\term-builder.js:77:67)
+    at Hibiki.<anonymous> (C:\Users\Shadow\Documents\Hibiki-main\src\loggers\memberUpdate.js:70:73)
+    at Hibiki.emit (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eventemitter3\index.js:182:35)
+    at Shard.emit (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\gateway\Shard.js:2111:26)
+    at Shard.wsEvent (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\gateway\Shard.js:749:22)
+    at Shard.onPacket (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\gateway\Shard.js:1922:26)
+    at Shard._onWSMessage (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\gateway\Shard.js:1793:29)
+    at WebSocket.emit (events.js:314:20)
+    at WebSocket.EventEmitter.emit (domain.js:486:12)
+    at Receiver.receiverOnMessage (C:\Users\Shadow\Documents\Hibiki-main\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:314:20)
+    at Receiver.EventEmitter.emit (domain.js:486:12)
+    at Receiver.dataMessage (C:\Users\Shadow\Documents\Hibiki-main\node_modules\ws\lib\receiver.js:437:14)
+    at Receiver.getData (C:\Users\Shadow\Documents\Hibiki-main\node_modules\ws\lib\receiver.js:367:17)
+    at Receiver.startLoop (C:\Users\Shadow\Documents\Hibiki-main\node_modules\ws\lib\receiver.js:143:22)
+(node:21316) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 14)
+(node:21316) UnhandledPromiseRejectionWarning: ReqlDriverError: None of the pools have an opened connection and failed to open a new one.
+    at MasterConnectionPool.queue (C:\Users\Shadow\Documents\Hibiki-main\node_modules\rethinkdb-ts\lib\connection\master-pool.js:137:19)
+    at Function.run (C:\Users\Shadow\Documents\Hibiki-main\node_modules\rethinkdb-ts\lib\query-builder\term-builder.js:77:67)
+    at Logging.guildLogging (C:\Users\Shadow\Documents\Hibiki-main\src\structures\Logger.js:29:93)
+    at canSend (C:\Users\Shadow\Documents\Hibiki-main\src\loggers\memberUpdate.js:18:37)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async trySend (C:\Users\Shadow\Documents\Hibiki-main\src\loggers\memberUpdate.js:24:21)
+(node:21316) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 15)
+(node:8660) UnhandledPromiseRejectionWarning: Error: Ningún objeto de mensaje para enviar, comuníquese con un desarrollador!
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Hibiki-main\src\utils\embed.js:51:42)
+    at module.exports (C:\Users\Shadow\Documents\Hibiki-main\src\utils\automod\antiInvite.js:22:56)
+    at automod.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Automod.js:26:94)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(Use `NODE.EXE --trace-warnings ...` to show where the warning was created)
+(node:8660) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 5)
+(node:8660) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:14984) UnhandledPromiseRejectionWarning: Error: No message object to send, contact a developer!
+    at Hibiki.module.exports [as embed] (C:\Users\Shadow\Documents\Hibiki-main\src\utils\embed.js:51:42)
+    at module.exports (C:\Users\Shadow\Documents\Hibiki-main\src\utils\automod\antiInvite.js:22:56)
+    at automod.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Automod.js:26:94)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+(Use `NODE.EXE --trace-warnings ...` to show where the warning was created)
+(node:14984) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+(node:14984) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:11232) UnhandledPromiseRejectionWarning: DiscordRESTError [10008]: Unknown Message
+    at RequestHandler.request (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.deleteMessage (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\Client.js:1231:36)
+    at Message.delete (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\structures\Message.js:367:43)
+    at C:\Users\Shadow\Documents\Hibiki-main\src\commands\General\setup.js:323:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Hibiki.listener (C:\Users\Shadow\Documents\Hibiki-main\src\utils\waitFor.js:27:26)
+(Use `NODE.EXE --trace-warnings ...` to show where the warning was created)
+(node:11232) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 24)
+(node:11232) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Error: Cannot find module 'marsnpm'
+Require stack:
+- C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\commands\Owner\reload.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\scripts\loader.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\structures\Client.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:15:21)
+    at Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:17)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\commands\\Roleplay\\kiss.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\commands\\Owner\\reload.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\scripts\\loader.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\index.js'
+  ]
+}
+Error: Cannot find module 'marsnpm'
+Require stack:
+- C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\scripts\loader.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\structures\Client.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:15:21)
+    at Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\commands\\Roleplay\\kiss.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\scripts\\loader.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\index.js'
+  ]
+}
+Error: Cannot find module 'marsnpm'
+Require stack:
+- C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\scripts\loader.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\structures\Client.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:15:21)
+    at Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\commands\\Roleplay\\kiss.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\scripts\\loader.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\index.js'
+  ]
+}
+Error: Cannot find module 'nekos.life'
+Require stack:
+- C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\commands\Owner\reload.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\scripts\loader.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\structures\Client.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:15:20)
+    at Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\commands\\Roleplay\\kiss.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\commands\\Owner\\reload.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\scripts\\loader.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\index.js'
+  ]
+}
+ReferenceError: Discord is not defined
+    at C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:27:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:24:18)
+    at async Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:7)
+Error: Cannot find module 'discord.js'
+Require stack:
+- C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\commands\Owner\reload.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\scripts\loader.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\structures\Client.js
+- C:\Users\Shadow\Documents\Hibiki-main\src\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:880:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:725:27)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:16:17)
+    at Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\commands\\Roleplay\\kiss.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\commands\\Owner\\reload.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\scripts\\loader.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\structures\\Client.js',
+    'C:\\Users\\Shadow\\Documents\\Hibiki-main\\src\\index.js'
+  ]
+}
+ReferenceError: author is not defined
+    at C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:30:26
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:26:18)
+    at async Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:7)
+ReferenceError: message is not defined
+    at C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:34:1
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:26:18)
+    at async Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:7)
+TypeError: msg.channel.send is not a function
+    at C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:34:13
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:26:18)
+    at async Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:7)
+ReferenceError: image is not defined
+    at C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:34:18
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:26:18)
+    at async Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:7)
+ReferenceError: Cannot access 'imagen' before initialization
+    at C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:34:18
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:26:18)
+    at async Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:7)
+ReferenceError: Cannot access 'imagen' before initialization
+    at C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:33:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:26:18)
+    at async Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:7)
+(node:17312) UnhandledPromiseRejectionWarning: DiscordRESTError [50035]: Invalid Form Body
+  embed.image: Only dictionaries may be used in a ModelType
+    at RequestHandler.request (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.createMessage (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\Client.js:1095:36)
+    at TextChannel.createMessage (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\structures\TextChannel.js:164:42)
+    at C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:29:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:26:18)
+    at async Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:7)
+(Use `NODE.EXE --trace-warnings ...` to show where the warning was created)
+(node:17312) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 14)
+(node:17312) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:17312) UnhandledPromiseRejectionWarning: DiscordRESTError [50035]: Invalid Form Body
+  embed.image: Only dictionaries may be used in a ModelType
+    at RequestHandler.request (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.createMessage (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\Client.js:1095:36)
+    at TextChannel.createMessage (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\structures\TextChannel.js:164:42)
+    at C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:29:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:26:18)
+    at async Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:7)
+(node:17312) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 16)
+(node:17312) UnhandledPromiseRejectionWarning: DiscordRESTError [50035]: Invalid Form Body
+  embed.image: Only dictionaries may be used in a ModelType
+    at RequestHandler.request (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\rest\RequestHandler.js:71:15)
+    at Hibiki.createMessage (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\Client.js:1095:36)
+    at TextChannel.createMessage (C:\Users\Shadow\Documents\Hibiki-main\node_modules\eris\lib\structures\TextChannel.js:164:42)
+    at C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:29:19
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async kissCommand.run (C:\Users\Shadow\Documents\Hibiki-main\src\commands\Roleplay\kiss.js:26:18)
+    at async Handler.run (C:\Users\Shadow\Documents\Hibiki-main\src\events\Handler.js:203:7)
+(node:17312) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 19)
